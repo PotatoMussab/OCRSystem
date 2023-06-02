@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/newpootis/Preprocessor.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>307</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/BEAN%20Projects/NewPootis/src/ocrsystem/Main.java</file>
+            <file>file:/D:/BEAN%20Projects/NewPootis/src/ocrsystem/Preprocessor.java</file>
+            <file>file:/D:/BEAN%20Projects/NewPootis/src/ocrsystem/RadialSVM.java</file>
+            <file>file:/D:/BEAN%20Projects/NewPootis/src/ocrsystem/FeatureExtractor.java</file>
+            <file>file:/D:/BEAN%20Projects/NewPootis/src/ocrsystem/NeuralNetwork.java</file>
+            <file>file:/D:/BEAN%20Projects/NewPootis/src/ocrsystem/NNetwork.java</file>
+            <file>file:/D:/BEAN%20Projects/NewPootis/src/ocrsystem/MultipleSVM.java</file>
+        </group>
+    </open-files>
+</project-private>
